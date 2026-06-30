@@ -3,7 +3,7 @@
 A one-click shortcut to instantly close and relaunch **Claude for Desktop** on Windows.
 
 <p align="center">
-  <img src="assets/icon.png" width="96" alt="Restart Claude icon — Claude logo with a blue circular refresh arrow in the corner" />
+  <img src="assets/shortcut-preview.png" width="600" alt="Restart Claude shortcut as it appears on the desktop" />
 </p>
 
 ---
@@ -22,10 +22,10 @@ That's a few too many steps when you're in a flow. This shortcut collapses all o
 
 ## What you get
 
-A desktop shortcut with a custom icon (the Claude logo with a blue circular refresh arrow in the corner), so it's easy to tell apart from the regular Claude icon.
+A desktop shortcut with a custom icon — the Claude logo with a blue circular refresh arrow badge in the corner, so it's easy to tell apart from the regular Claude icon.
 
 <p align="left">
-  <img src="assets/shortcut-preview.png" width="120" alt="Restart Claude shortcut as it appears on the desktop" />
+  <img src="assets/icon.png" width="96" alt="Restart Claude icon — Claude logo with a blue circular refresh arrow in the corner" />
 </p>
 
 ---
