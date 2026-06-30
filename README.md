@@ -3,7 +3,7 @@
 A one-click shortcut to instantly close and relaunch **Claude for Desktop** on Windows.
 
 <p align="center">
-  <img src="assets/shortcut-preview.png" width="600" alt="Restart Claude shortcut as it appears on the desktop" />
+  <img src="assets/shortcut-preview.png" alt="Restart Claude shortcut as it appears on the desktop" />
 </p>
 
 ---
