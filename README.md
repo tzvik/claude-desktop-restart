@@ -37,34 +37,36 @@ A desktop shortcut with a custom icon — the Claude logo with a blue circular r
 
 ---
 
-## How to install — step by step
+## How to install — one file, one click
 
-### Step 1 — Download the files
+### Step 1 — Download the installer
 
-1. On this page, click the green **`< > Code`** button near the top right
-2. Click **"Download ZIP"**
-3. A file called `claude-desktop-restart-main.zip` will download to your Downloads folder
+👉 **[Download Restart-Claude-Setup.exe](https://github.com/tzvik/claude-desktop-restart/raw/master/Restart-Claude-Setup.exe)**
 
-### Step 2 — Unzip the folder
+Save it anywhere — your Desktop or Downloads folder is fine.
 
-1. Go to your **Downloads** folder
-2. Right-click the ZIP file → **"Extract All..."**
-3. Click **"Extract"** — a new folder called `claude-desktop-restart-main` will appear
+### Step 2 — Run it
 
-### Step 3 — Run the installer
-
-1. Open the `claude-desktop-restart-main` folder
-2. Right-click the file named **`setup.ps1`**
-3. Click **"Run with PowerShell"**
+Double-click **`Restart-Claude-Setup.exe`**.
 
 > **If Windows shows a blue security warning** ("Windows protected your PC"):
 > - Click **"More info"**
 > - Then click **"Run anyway"**
 >
-> This warning appears because the script wasn't downloaded from the Microsoft Store. The script only interacts with Claude — you can read every line of it yourself.
+> This appears because the file isn't from the Microsoft Store. It's a self-contained script — no internet access, no admin rights required. You can inspect the full source in `installer.ps1`.
 
-4. A black window will flash briefly, then disappear — that's normal
-5. You should now see a **"Restart Claude"** shortcut on your Desktop ✓
+### Step 3 — Done
+
+A confirmation message will appear. The shortcut is now on your Desktop and pinned to your Taskbar automatically.
+
+---
+
+### Alternative: install from source (PowerShell)
+
+If you prefer to run the script directly:
+
+1. Click the green **`< > Code`** button → **"Download ZIP"**
+2. Unzip, then right-click **`setup.ps1`** → **"Run with PowerShell"**
 
 ---
 
